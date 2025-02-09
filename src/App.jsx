@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Description from "./components/Description/Description"; // ✅ Импортируем
+import Description from "./components/Description/Description";
 import Feedback from "./components/Feedback/Feedback";
 import Options from "./components/Options/Options";
 import Notification from "./components/Notification/Notification";
